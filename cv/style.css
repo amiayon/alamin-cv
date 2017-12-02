@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;;
+}
+body{
+	max-width: 1170px;
+	margin: 0 auto;
+
+text-transform: capitalize;
+}
+.header{
+	background: #f1f1f1;
+	padding: 0px 0 50px 0;
+}
+.header-left img {
+    width: 10%;
+    float: left;
+}
+.header-left h1,
+.header-left h2 {
+    width: 70%;
+    float: left;
+    margin-top: 15px;
+    text-transform: capitalize;
+}
+.left-same{
+	width: 30%;
+	float: left;
+	padding: 20px 0;
+
+}
+.right-same{
+	width: 70%;
+	float: left;
+	padding: 20px 0;
+}
+.right h3{    
+	width: 21%;
+    float: left;
+}
+.education-right{
+	padding: 20px 0;
+	width: 70%;
+	float: right;
+}
+.education-left {
+    width: 30%;
+    float: left;
+
+}
+.contact-left{
+	margin-top:200px; 
+}
+.contact-right{
+	width: 30%;
+
+
+}
+.contact-right input{
+	width: 60%;
+}
+textarea{
+	float: left;
+
+}
+/*
+.personal{
+	border-bottom: 1px solid #000;
+}
+.exprience{
+	border-bottom: 1px solid #000;
+}
+.skill{
+	border-bottom: 1px solid #000;
+}
+.education{
+	border-bottom: 1px solid #000;
+}
+.contact{
+	border-bottom: 1px solid #000;
+}
+/*
